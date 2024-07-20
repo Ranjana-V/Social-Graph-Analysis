@@ -1,6 +1,6 @@
 # Social Graph Analysis and Visualization
 
-This project involves analyzing the social graph of characters from a novel using Python and the NetworkX library. The analysis includes extracting the social graph, calculating centrality measures, visualizing the graph, and comparing it to various generative models.
+This project involves analyzing the social graph of characters from a novel-"FAIRYLAND PLANET BY JOHN SILETTO" using Python and the NetworkX library. The analysis includes extracting the social graph, calculating centrality measures, visualizing the graph, and comparing it to various generative models.
 
 ## Project Overview
 
